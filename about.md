@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title:
 permalink: /about/
 ---
 
@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You can find me on instagram and youtube for now.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[stoicphysique@stoicphysique.com](mailto:stoicphysique@gmail.com)

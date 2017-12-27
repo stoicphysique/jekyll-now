@@ -30,6 +30,19 @@ body {
   width: 100%;
 }
 
+#disqus_thread{
+     position: relative;
+}
+#disqus_thread:after{
+     content: "";
+     display: block;
+     height: 55px;
+     width: 100%;
+     position: absolute;
+     bottom: 0px;
+     background:white;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
